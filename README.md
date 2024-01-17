@@ -4,7 +4,7 @@
 
 
 # ⏳ Ignite-Timer - Contador que usa a tecnica Pomodoro.
-Projeto desenvolvido durante o Curso React da trilha ignite - Rocketseat.
+Projeto desenvolvido durante a trilha de React do ignite - Rocketseat.
 
 
 
